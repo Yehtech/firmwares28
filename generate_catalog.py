@@ -9,7 +9,7 @@ OUTPUT_JSON = "catalog.json"
 
 # 【重要】請將這裡換成你的 GitHub 帳號與 Repository 名稱
 GITHUB_OWNER = "Yehtech"
-GITHUB_REPO = "firmwares"
+GITHUB_REPO = "firmwares28"
 BRANCH = "main"
 
 def calculate_md5(file_path):
