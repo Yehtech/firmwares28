@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-08-12T07:26:46.903348Z",
+    "last_updated": "2026-08-12T08:19:06.659134Z",
     "firmwares": [
         {
-            "filename": "IMRSD1MF512912231DA9_I2C.bin",
-            "size_bytes": 57360,
-            "md5": "a70dd692d2c919fa40816d3b8a254489",
-            "download_url": "https://raw.githubusercontent.com/Yehtech/firmwares/main/firmwares/IMRSD1MF512912231DA9_I2C.bin"
+            "filename": "MSLRSDDT21130619F952_0083113E.bin",
+            "size_bytes": 1044512,
+            "md5": "53cd4a6113fac1896b38b36a99d5cba6",
+            "download_url": "https://raw.githubusercontent.com/Yehtech/firmwares28/main/firmwares/MSLRSDDT21130619F952_0083113E.bin"
         },
         {
-            "filename": "IMTSD1ML512912235174_I2C.bin",
-            "size_bytes": 57360,
-            "md5": "3477aad89c531713ca8e8a43c2e8e4d8",
-            "download_url": "https://raw.githubusercontent.com/Yehtech/firmwares/main/firmwares/IMTSD1ML512912235174_I2C.bin"
+            "filename": "MSLTSDDT21130619810B_0079271E.bin",
+            "size_bytes": 1044512,
+            "md5": "aeabce69e0d2dd1c052875db1eb5d8dc",
+            "download_url": "https://raw.githubusercontent.com/Yehtech/firmwares28/main/firmwares/MSLTSDDT21130619810B_0079271E.bin"
         }
     ]
 }
